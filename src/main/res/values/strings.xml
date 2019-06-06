@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Maitelandia</string>
+    <string name="et_usuario">Usuario</string>
+    <string name="et_contraseña">Contraseña</string>
+    <string name="bt_ingresar">Ingresar</string>
+    <string name="bt_registrar">Registrar</string>
+    <string name="tv_numFrutas">Seleccione la imagen con mayor número de frutas</string>
+    <string name="bt_regresar">Regresar</string>
+    <string name="img_modulo1">Suma</string>
+    <string name="img_modulo2">Resta</string>
+    <string name="img_modulo3">Cantidades</string>
+    <string name="img_modulo4">Números</string>
+    <string name="tv_moduloSuma">Selecciona la opción correcta</string>
+
+</resources>
